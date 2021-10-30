@@ -102,3 +102,7 @@
 
 #### 15. Сертификация тестировщиков:
 * [https://www.istqb.org/](https://www.istqb.org/)
+
+#### 16. Про переезды/эмиграцию:
+* [https://nomadlist.com/](https://nomadlist.com/)
+* [https://www.numbeo.com/cost-of-living/](https://www.numbeo.com/cost-of-living/)
