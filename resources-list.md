@@ -47,8 +47,8 @@
 * [https://www.labirint.ru/books/788316/](https://www.labirint.ru/books/788316/)
 * [https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
 Тестирование:
-* [Р. Савин Тестирование дот ком]
-* [С. Куликов Тестирование программного обеспечения]
+* Р. Савин Тестирование дот ком
+* С. Куликов Тестирование программного обеспечения
 
 #### 6. Про soft skills:
 * [отличная подборка книг для основных навыков](https://www.livelib.ru/selection/1746763-soft-skills)
