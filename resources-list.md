@@ -46,7 +46,7 @@
 * [https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 * [https://www.labirint.ru/books/788316/](https://www.labirint.ru/books/788316/)
 * [https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
-* Тестирование:
+##### Тестирование:
 * Р. Савин Тестирование дот ком
 * С. Куликов Тестирование программного обеспечения
 
