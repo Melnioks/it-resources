@@ -24,21 +24,23 @@
 * [https://www.youtube.com/misterduncanchina/videos](https://www.youtube.com/misterduncanchina/videos)
 
 #### 3. Полезные телеграм каналы:
-* [вакансии](https://t.me/profunctor_jobs)
-* [вакансии](https://t.me/jobitru)
-* [статьи журнал Код](https://t.me/thecodemedia)[Типичный программист](https://t.me/tproger_official)
-* [мемчики)](https://t.me/godindev)
-* [вакансии на удаленке](https://t.me/hiddengurus)
-* [айти задачки](https://t.me/it_sobes)
-* [новости](https://t.me/addmeto)
-* [новости](https://t.me/techsparks)
+* [Канал с вакансиями](https://t.me/profunctor_jobs)
+* [Канал с вакансиями](https://t.me/jobitru)
+* [Статьи журнал Код](https://t.me/thecodemedia)
+* [Типичный программист](https://t.me/tproger_official)
+* [Мемчики)](https://t.me/godindev)
+* [Вакансии на удаленке](https://t.me/hiddengurus)
+* [Айти задачки](https://t.me/it_sobes)
+* [Новости](https://t.me/addmeto)
+* [Новости](https://t.me/techsparks)
 
 #### 4. Ютуб каналы на IT тематику:
-* [плейлист с технологическими лекциями](https://www.youtube.com/watch?v=-z65gKETbf8&list=PL8YZyma552VdiEq-P1bZ9Vc_2F9_oCIPY)
+* [Плейлист с технологическими лекциями](https://www.youtube.com/watch?v=-z65gKETbf8&list=PL8YZyma552VdiEq-P1bZ9Vc_2F9_oCIPY)
 * [devчата рассказывают про IT](https://www.youtube.com/channel/UCddOhFvD5a_UeNF9gMtqlwg/videos)
-* [интервью](https://www.youtube.com/c/ITBEARD)
+* [Интервью](https://www.youtube.com/c/ITBEARD)
+* [Интервью](https://www.youtube.com/c/VictoriaBorodina)
 * [доклады конференции](https://www.youtube.com/c/Heisenbugconf/videos)
-* [интервью)](https://www.youtube.com/c/VictoriaBorodina)
+* [Подкаст про существование в IT - Мы обречены](https://www.youtube.com/channel/UCUSbYJK8)
 
 #### 5. Книги:
 * [https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/B078J67VNF/ref=sr_1_3?s=books&ie=UTF8&qid=1519215497&sr=1-3&refinements=p_n_publication_date%3A1250227011](https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/B078J67VNF/ref=sr_1_3?s=books&ie=UTF8&qid=1519215497&sr=1-3&refinements=p_n_publication_date%3A1250227011)
@@ -51,7 +53,7 @@
 * С. Куликов Тестирование программного обеспечения
 
 #### 6. Про soft skills:
-* [отличная подборка книг для основных навыков](https://www.livelib.ru/selection/1746763-soft-skills)
+* [Отличная подборка книг для проработки основных навыков](https://www.livelib.ru/selection/1746763-soft-skills)
 
 #### 7. Полезные расширения для Google Chrome:
 * [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en-GB "проверка грамматики")
@@ -80,28 +82,28 @@
 * [http://www.se-radio.net/](http://www.se-radio.net/)
 
 #### 11. Тренировка навыков:
-* [задачи по программированию](https://leetcode.com/)
-* [задачи по программированию](https://www.codewars.com/)
-* [тренировка SQL](https://sqlzoo.net/)
-* [тренировка API](https://swapi.dev/)
-* [тренировка API](https://petstore.swagger.io/)
-* [тренировка CSS](https://flukeout.github.io/)
+* [Задачи по программированию](https://leetcode.com/)
+* [Задачи по программированию](https://www.codewars.com/)
+* [Тренировка SQL](https://sqlzoo.net/)
+* [Тренировка API](https://swapi.dev/)
+* [Тренировка API](https://petstore.swagger.io/)
+* [Тренировка CSS](https://flukeout.github.io/)
 
 #### 12. Git, Github:
-* [ знакомство с Git (распределенная система контроля версий)](https://githowto.com/ru)
-* [знакомство с Github (хостинг, хранение, управление репозиториями)](https://lab.github.com/githubtraining/introduction-to-github)
+* [Знакомство с Git (распределенная система контроля версий)](https://githowto.com/ru)
+* [Знакомство с Github (хостинг, хранение, управление репозиториями)](https://lab.github.com/githubtraining/introduction-to-github)
 
 #### 13. Онлайн обучение:
-* [переведенные лекции по базовым основам программирования CS50](https://www.youtube.com/playlist?app=desktop&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
-* [онлайн курсы по отдельным лекциям](https://www.udemy.com/)
-* [онлайн курсы по отдельным лекциям](https://www.pluralsight.com/)
-* [онлайн курсы по отдельным лекциям](https://www.coursera.org/)
+* [Переведенные лекции по базовым основам программирования CS50](https://www.youtube.com/playlist?app=desktop&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+* [Онлайн курсы по отдельным темам](https://www.udemy.com/)
+* [Онлайн курсы по отдельным темам](https://www.pluralsight.com/)
+* [Онлайн курсы по отдельным темам](https://www.coursera.org/)
 
 #### 14. Подработка, фриланс:
-* [краудтестинг](https://www.utest.com/)
-* [фриланс](https://www.upwork.com/)
-* [фриланс](https://freelance.habr.com/)
-* [фриланс](https://www.fl.ru/)
+* [Краудтестинг](https://www.utest.com/)
+* [Биржа фриланс](https://www.upwork.com/)
+* [Вакансии фриланс](https://freelance.habr.com/)
+* [Биржа фриланс](https://www.fl.ru/)
 
 #### 15. Сертификация тестировщиков:
 * [https://www.istqb.org/](https://www.istqb.org/)
